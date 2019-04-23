@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\bin\Debug\Calculating_area_perimeter.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\bin\Debug\Calculating_area_perimeter.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\bin\Debug\Calculating_area_perimeter.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\obj\Debug\Calculating_area_perimeter.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\obj\Debug\Calculating_area_perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\obj\Debug\Calculating_area_perimeter.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Calculating_area_perimeter\Calculating_area_perimeter\obj\Debug\Calculating_area_perimeter.pdb
